@@ -18,49 +18,49 @@ Welcome to the **Gym Application**, a comprehensive platform for managing fitnes
 
 ### **1. Dashboard**
 Access all your gym details and track your progress in one place.  
-![Dashboard](https://via.placeholder.com/800x400.png?text=Dashboard+Screenshot)
+![r5](https://github.com/user-attachments/assets/a553399f-9f66-4322-a924-28ba70b8eec8)
 
 ---
 
 ### **2. Trainers**
 Discover qualified trainers and learn about their specialties.  
-![Trainers Page](https://via.placeholder.com/800x400.png?text=Trainers+Page+Screenshot)
+![r7](https://github.com/user-attachments/assets/70cf24c5-e6b1-4da8-835e-f266049d8fe0)
 
 ---
 
 ### **3. Testimonials**
 Read inspiring reviews and success stories from other members.  
-![Testimonials](https://via.placeholder.com/800x400.png?text=Testimonials+Screenshot)
+![r6](https://github.com/user-attachments/assets/0e54f4c4-bbaa-47a2-805d-47ea2c3425a3)
 
 ---
 
 ### **4. Cart Page**
 Easily manage your gym products and memberships in the cart.  
-![Cart Page](https://via.placeholder.com/800x400.png?text=Cart+Page+Screenshot)
+![r2](https://github.com/user-attachments/assets/d4d536f8-b709-4d01-ac40-b99d34ac6889)
 
 ---
 
 ### **5. Products**
 Browse gym equipment, supplements, and merchandise tailored to your fitness goals.  
-![Products Page](https://via.placeholder.com/800x400.png?text=Products+Page+Screenshot)
+![r9](https://github.com/user-attachments/assets/4c29c072-de12-4aa0-a385-6dc9b5554e3e)
 
 ---
 
 ### **6. Trainer Details**
 View detailed profiles of trainers, including their experience, certifications, and contact information.  
-![Trainer Details](https://via.placeholder.com/800x400.png?text=Trainer+Details+Screenshot)
+![r8](https://github.com/user-attachments/assets/a2ef064f-2e65-4efd-91fb-bb10b81f2668)
 
 ---
 
 ### **7. Pricing Page**
 Choose from multiple membership plans that cater to all fitness levels.  
-![Pricing Page](https://via.placeholder.com/800x400.png?text=Pricing+Page+Screenshot)
-
+![r1](https://github.com/user-attachments/assets/fa728337-1003-43aa-9393-353626754d4b)
+![r3](https://github.com/user-attachments/assets/597a41d0-8b27-4625-a136-68ae25c76d65)
 ---
 
 ### **8. Login Page**
 Securely log in or sign up using Firebase Authentication.  
-![Login Page](https://via.placeholder.com/800x400.png?text=Login+Page+Screenshot)
+![r4](https://github.com/user-attachments/assets/ecb5514a-4b39-414b-afff-7bb75f59bff2)
 
 ---
 
